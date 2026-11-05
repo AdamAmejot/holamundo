@@ -3,6 +3,6 @@ import javax.swing.JOptionPane;
 public class Main {
     // Programa de prueba de Git - Adam
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Hola mundo");
+        JOptionPane.showMessageDialog(null, "Hola mundo desde GitHub");
     }
 }
